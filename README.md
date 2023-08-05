@@ -2,7 +2,7 @@
 
 <img align = "center" alt = "Coding"  src = "https://github.com/siddie1/siddie1/assets/141491564/6effad13-7f19-423e-b9fc-bf5ed557e16b">
 
-<h1 align ="center"> Hi 🥷 I'm Siddhant Singh</h1>
+<h1 align ="center"> Hi , I'm Siddhant Singh 🥷</h1>
 
 
 ## 🌐 Socials:
