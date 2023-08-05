@@ -1,5 +1,7 @@
 [![MasterHead](https://github.com/siddie1/siddie1/assets/141491564/57d32009-c203-49b2-8d8d-02734fc939fb.gif)]
+
 <h1 align ="center"> Hi 🥷 I'm Siddhant Singh</h1>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.siddie.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddie1) 
 
@@ -12,4 +14,3 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
